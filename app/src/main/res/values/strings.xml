@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical 7</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="coffee">coffee</string>
+    <string name="reading_newspaper">Reading Newspaper</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+</resources>
